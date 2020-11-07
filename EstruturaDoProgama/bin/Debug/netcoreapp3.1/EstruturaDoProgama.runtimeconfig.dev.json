@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/helioj/.dotnet/store/|arch|/|tfm|",
+      "/home/helioj/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama.deps.json
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama.runtimeconfig.json
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama.runtimeconfig.dev.json
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama.dll
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/bin/Debug/netcoreapp3.1/EstruturaDoProgama.pdb
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/obj/Debug/netcoreapp3.1/EstruturaDoProgama.csprojAssemblyReference.cache
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/obj/Debug/netcoreapp3.1/EstruturaDoProgama.AssemblyInfoInputs.cache
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/obj/Debug/netcoreapp3.1/EstruturaDoProgama.AssemblyInfo.cs
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/obj/Debug/netcoreapp3.1/EstruturaDoProgama.dll
+/home/helioj/Documentos/Curso-DIO-C#/EstruturaDoProgama/obj/Debug/netcoreapp3.1/EstruturaDoProgama.pdb

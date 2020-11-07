@@ -1,0 +1,3 @@
+/home/helioj/Documentos/Curso-DIO-C#/03-Classes/obj/Debug/netcoreapp3.1/03-Classes.csprojAssemblyReference.cache
+/home/helioj/Documentos/Curso-DIO-C#/03-Classes/obj/Debug/netcoreapp3.1/03-Classes.AssemblyInfoInputs.cache
+/home/helioj/Documentos/Curso-DIO-C#/03-Classes/obj/Debug/netcoreapp3.1/03-Classes.AssemblyInfo.cs

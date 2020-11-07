@@ -1,0 +1,11 @@
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.deps.json
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.runtimeconfig.json
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.runtimeconfig.dev.json
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.dll
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/bin/Debug/netcoreapp3.1/DigitalInovationOne.pdb
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.csprojAssemblyReference.cache
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.AssemblyInfoInputs.cache
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.AssemblyInfo.cs
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.dll
+/home/helioj/Documentos/Curso-DIO-C#/PrimeirosPassos/DigitalInovationOne/obj/Debug/netcoreapp3.1/DigitalInovationOne.pdb
