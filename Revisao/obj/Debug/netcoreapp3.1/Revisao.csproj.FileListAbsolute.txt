@@ -1,0 +1,11 @@
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/helioj/Documentos/Curso-DIO-C#/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
